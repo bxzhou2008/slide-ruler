@@ -15,7 +15,7 @@
 
 | 原版      | 定制后     |
 | :------------ | :------- |
-!![example](https://i.loli.net/2018/06/27/5b3350dd2c4cc.gif) | ![demo2](https://raw.githubusercontent.com/bxzhou2008/slide-ruler/master/demo2.png) |
+!![example](https://i.loli.net/2018/06/27/5b3350dd2c4cc.gif) | ![demo2](https://raw.githubusercontent.com/bxzhou2008/slide-ruler/master/demo.png) |
 
 
 ## 属性
